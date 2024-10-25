@@ -64,6 +64,14 @@ export default {
       meta: {
         title: "useEcharts"
       }
+    },
+    {
+      path: "/test/mapDrill",
+      name: "MapDrill",
+      component: () => import("@/views/Test/mapDrill/index.vue"),
+      meta: {
+        title: "地图钻取"
+      }
     }
   ]
 } satisfies RouteConfigsTable;
