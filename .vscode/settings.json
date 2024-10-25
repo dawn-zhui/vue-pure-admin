@@ -57,7 +57,8 @@
     "v-copy",
     "v-longpress",
     "v-optimize",
-    "v-ripple"
+    "v-ripple",
+    "v-watermark"
   ],
   "vscodeCustomCodeColor.highlightValueColor": "#b392f0",
 }
