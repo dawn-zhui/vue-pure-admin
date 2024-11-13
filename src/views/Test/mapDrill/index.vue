@@ -130,18 +130,18 @@ function setOption(name, data) {
         data: [
           {
             name: "维护区1",
-            value: [116.4074, 39.9042],
-            url: "/test/CSSModule"
+            value: [116.4074, 39.9042]
+            // url: "/test/CSSModule"
           },
           {
             name: "维护区2",
-            value: [121.4737, 31.2304],
-            url: "/test/massdataEcharts"
+            value: [121.4737, 31.2304]
+            // url: "/test/massdataEcharts"
           },
           {
             name: "维护区3",
-            value: [113.2644, 23.1292],
-            url: "/test/useEcharts"
+            value: [113.2644, 23.1292]
+            // url: "/test/useEcharts"
           }
           // 更多数据...
         ]
