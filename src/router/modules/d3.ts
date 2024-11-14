@@ -22,6 +22,12 @@ export default {
       name: "demo2",
       component: () => import("@/views/d3/demo2/index.vue"),
       meta: { title: "demo2" }
+    },
+    {
+      path: "/d3/demo3",
+      name: "demo3",
+      component: () => import("@/views/d3/demo3/index.vue"),
+      meta: { title: "demo3" }
     }
   ]
 } satisfies RouteConfigsTable;
